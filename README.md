@@ -1,4 +1,4 @@
-# My default Linux workspace
+# Tools and Utilities for Devhub Developers
 
 ### CLI Tools
 
@@ -6,7 +6,5 @@ Under `devcli\devcli.d` is a set of utility scripts
 -  **assume-role** - Script to assume an AWS IAM Role
 -  **secret** - Script to recursively grep the contents of a directory for sensitive keywords
 
+... in progress ...
 
-### My oh-my-zsh
-
-Under `.my-zsh` is a set of profile scripts.
